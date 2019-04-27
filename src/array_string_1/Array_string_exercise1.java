@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * 중복이 없는가 : 문자열이 주어졌을 때, 이 문자열에 같은 문자가 중복되어 등장하는지 확인하는 알고리즘을 작성하라.
  * 자료구조를 추가로 사용하지 않고 풀 수 있는 알고리즘 또한 고민하라.
  */
-public class Array_string_solution1 {
+public class Array_string_exercise1 {
 	public static void main(String[] args) {
 		// 리스트를 이용해서 만든 풀이
 		/*
